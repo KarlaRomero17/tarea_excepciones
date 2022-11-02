@@ -1,0 +1,8 @@
+C:\Users\kromero\source\repos\tarea_5\tarea_5\bin\Debug\tarea_5.exe.config
+C:\Users\kromero\source\repos\tarea_5\tarea_5\bin\Debug\tarea_5.exe
+C:\Users\kromero\source\repos\tarea_5\tarea_5\bin\Debug\tarea_5.pdb
+C:\Users\kromero\source\repos\tarea_5\tarea_5\obj\Debug\tarea_5.csproj.AssemblyReference.cache
+C:\Users\kromero\source\repos\tarea_5\tarea_5\obj\Debug\tarea_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kromero\source\repos\tarea_5\tarea_5\obj\Debug\tarea_5.csproj.CoreCompileInputs.cache
+C:\Users\kromero\source\repos\tarea_5\tarea_5\obj\Debug\tarea_5.exe
+C:\Users\kromero\source\repos\tarea_5\tarea_5\obj\Debug\tarea_5.pdb
