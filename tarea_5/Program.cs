@@ -53,9 +53,75 @@ namespace tarea_5
                 }
             } while(continuar== true);
             */
+            /* double num1 ;
+             double res;
+             try
+             {
+                 Console.Write("Ingrese su numero: ");
+                 num1 = double.Parse(Console.ReadLine());
+                 if (num1 > 0)
+                 {
+                     res = Math.Sqrt(num1);
+                     Console.WriteLine("El resultado es: " + res);
+                 }
+                 else
+                 {
+                     throw new Exception("Error. No hay raiz cuadrada de negativos");
+                 }
+             }
+             catch (Exception e)
+             {
+                 Console.WriteLine(e.Message);
+             }*/
+            /* Console.Write("Ingrese un numero dividido entre 20: ");
 
+             try
+             {
+                 int num = int.Parse(Console.ReadLine());
 
-                double num1;
+                 int result = 20 / num;
+
+                 Console.WriteLine("20 / {0} = {1}", num, result);
+             }
+             catch (DivideByZeroException ex)
+             {
+                 Console.Write("No se puede dividir entre 0." );
+             }
+             catch (InvalidOperationException ex)
+             {
+                 Console.Write("Operacion incorrecta. Intente de nuevo." );
+             }
+             catch (FormatException ex)
+             {
+                 Console.Write("Formato incorrecto" );
+             }
+             catch (Exception ex)
+             {
+                 Console.Write("Error." +ex.Message);
+             }
+ */
+
+            /*try
+            {
+
+                double numero;
+                Console.Write("Ingrese un numero par:");
+                numero = double.Parse(Console.ReadLine());
+                if(numero % 2 == 0)
+                {
+                    Console.WriteLine("El numero {0} es par", numero);
+                }
+                else
+                {
+                    Console.WriteLine("No es par");
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("NUmero incorrecto. " + e.Message);
+            }*/
+
+            double num1;
             double num2;
             double division;
             Console.Write("Ingrese su numero 1: ");
